@@ -1,0 +1,3 @@
+# This file keeps the data directory in version control
+# Historical cryptocurrency data and processed datasets will be stored here
+# Note: Actual data files are excluded via .gitignore
