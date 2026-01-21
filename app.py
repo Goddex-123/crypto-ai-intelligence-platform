@@ -12,5 +12,6 @@ sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), 'src
 # Import and run the dashboard
 from dashboard.crypto_dashboard import main
 
-if __name__ == "__main__":
-    main()
+# Run main directly (Streamlit runs top-level code)
+main()
+
