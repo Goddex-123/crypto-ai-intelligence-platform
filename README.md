@@ -4,6 +4,9 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red.svg)](https://streamlit.io)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.13%2B-orange.svg)](https://tensorflow.org)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Click_Here-brightgreen?style=for-the-badge)](https://crypto-ai-platform.streamlit.app/)
+
+> **🎯 Try it now!** Click the **Live Demo** badge above to use the app instantly!
 
 > **An advanced, AI-powered cryptocurrency analysis and trading platform for data science enthusiasts and quantitative researchers.**
 
