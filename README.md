@@ -4,6 +4,8 @@
 ![Status](https://img.shields.io/badge/Status-Under_Development-orange)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://crypto-ai-platform.streamlit.app)
+
 > **Next-generation cryptocurrency analytics engine leveraging Large Language Models (LLMs) for sentiment analysis and Deep Learning for price action forecasting.**
 
 ---
